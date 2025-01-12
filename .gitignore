@@ -2,3 +2,6 @@ env/
 .env
 files/
 .cache/
+.cache2/
+notebook_lecture_5.ipynb
+notebook_lecture_6.ipynb
